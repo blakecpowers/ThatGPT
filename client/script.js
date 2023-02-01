@@ -100,7 +100,7 @@ const handleSubmit = async (e) => {
   loader(messageDiv);
 
   // Fetch data from server to get the bots response.
-  const response = await fetch('http://localhost:7050', {
+  const response = await fetch('https://thatgpt.onrender.com', {
   method: 'POST',
   headers: {
     'Content-Type' : 'application/json'
