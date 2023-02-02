@@ -1,4 +1,4 @@
-# ThatGPT 
+# ThatGPT - https://that-gpt.vercel.app/
 &nbsp;&nbsp; A ChatGPT clone utilizing the OpenAI API https://openai.com/api/ <br>
 &nbsp;&nbsp; Uses Node.js for server side requests. <br>
 &nbsp;&nbsp; Makes API Requests to OpenAI's ChatGPT. <br> 
