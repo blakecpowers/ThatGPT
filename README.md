@@ -7,21 +7,21 @@
 
 # OpenAI ChatGPT Parameters Used
 Model: text-davinci-003 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ID of the model to use. text davinci 003 offers higher quality writing and can handle more comples instructions. It &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; also is better at longer form content generation, including code generation. <br> 
+&nbsp;&nbsp; ID of the model to use. text davinci 003 offers higher quality writing and can handle more comples instructions. It also is better at longer form content generation, including code generation. <br> 
 <br>
 Temperature: 0 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What sampling temperature to use. temperature can range from 0 to 1. Temperature of 1 being taking the most risks, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with posbility of giving an incorrect answer and Temperature 0 being the lowest risk option. <br>
+&nbsp;&nbsp; What sampling temperature to use. temperature can range from 0 to 1. Temperature of 1 being taking the most risks, with posbility of giving an incorrect answer and Temperature 0 being the lowest risk option. <br>
 <br>
 Max Tokens: 3000 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The maximum number of tokens to generate in the completion. Since the normal range is from 2046 to 4096, a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; middleground of ~3000~ was chosen. <br>
+&nbsp;&nbsp; The maximum number of tokens to generate in the completion. Since the normal range is from 2046 to 4096, a middleground of ~3000~ was chosen. <br>
 <br>
 Top_p: 1 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OpenAI reccomends either tempering with top_p or temperature but not both, so the default value was kept. <br>
+&nbsp;&nbsp; OpenAI reccomends either tempering with top_p or temperature but not both, so the default value was kept. <br>
 Frequence Penalty: 0.5 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A value between -2.0 and 2.0 where the higher the value, the less likely the model will repeat itself. Without &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; introducing risk of answers being too short/concise, a value of 0.5 was chosen.<br>
+&nbsp;&nbsp; A value between -2.0 and 2.0 where the higher the value, the less likely the model will repeat itself. Without  introducing risk of answers being too short/concise, a value of 0.5 was chosen.<br>
 <br>
 Presence Penalty: 0.5 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A value between -2.0 and 2.0 where Positive values penalize new tokens based on whether they appear in the text so &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; far, increasing the model's likelihood to talk about new topics.<br>
+&nbsp;&nbsp; A value between -2.0 and 2.0 where Positive values penalize new tokens based on whether they appear in the text so far, increasing the model's likelihood to talk about new topics.<br>
 <br>
 
 # Hosted
