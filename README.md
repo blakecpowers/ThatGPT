@@ -1,3 +1,6 @@
+### IMPORTANT: This site has been deprecated due to billing costs
+
+
 # ThatGPT - https://that-gpt.vercel.app/
 &nbsp;&nbsp; A ChatGPT clone utilizing the OpenAI API https://openai.com/api/ <br>
 &nbsp;&nbsp; Uses Node.js for server side requests. <br>
